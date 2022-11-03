@@ -21,12 +21,12 @@ Make sure that this project has proper file permissions.
 To run this project, you will need to set up a database and  add it to your .env file.
 1. Clone GitHub repo for this project locally
 	```console
-	git clone https://github.com/FatimaAlam1234/Team-triad-project.git
+	git clone https://github.com/monikakunwarshaktawat/TeamTriadProject.git
 	```
 
 2. cd into your project
 	```console
-	cd Team-triad-project
+	cd TeamTriadProject
 	```
 3.  Install Composer Dependencies
 	```console
