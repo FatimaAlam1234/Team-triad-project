@@ -26,7 +26,7 @@ To run this project, you will need to set up a database and  add it to your .env
 
 2. cd into your project
 	```console
-	cd TeamTriadProject
+	cd Team-triad-project
 	```
 3.  Install Composer Dependencies
 	```console
